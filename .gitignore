@@ -172,4 +172,4 @@ cython_debug/
 
 # User Identified
 ignore/
-Data/
+.DS_Store
