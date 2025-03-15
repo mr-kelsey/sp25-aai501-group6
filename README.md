@@ -18,7 +18,7 @@ The main purpose of this project is ________. Describe the goals of the project 
 * Birendra Khimding
 * Birendra_github_account 
 * Gaius Thomas
-* Gaius_github_account
+* [https://github.com/jeffiThomas](https://github.com/jeffiThomas)
 
 #### Methods Used
 * Inferential Statistics
