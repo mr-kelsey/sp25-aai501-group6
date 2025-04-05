@@ -2,7 +2,7 @@
 
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
--- Project Status: [Planned, **Active**, On-hold, Completed]
+-- Project Status: [Planned, Active, On-hold, **Completed**]
 
 #### Installation
 You should add an instruction how this project is to be used, installed, run, edited in others’ machine.
@@ -30,11 +30,8 @@ The main purpose of this project is to learn and apply convolutional neural netw
 #### Technologies
 * Python
 
-#### Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+#### Project Abstract
+The human face is comprised of roughly sixty muscles and is capable of conveying a multitude of complex emotions.  As such, a large portion of human communication is conveyed through facial expressions. Unfortunately, not everyone can discern what is meant by various facial expressions.  This leaves those who struggle with this skill in a state of confusion, often resulting in them being ostracized from large swaths of society.  Computer-aided facial expression recognition would be greatly beneficial to anyone who struggles with such a task and could help affected persons become more sociable, leading to a higher quality of life.
 
 #### License
 GNU GENERAL PUBLIC LICENSE Version 3
-
-#### Acknowledgments
-You can mention and thank your professors and those who technically helped you during the project. 
